@@ -21,11 +21,6 @@ Document Vault is a cross-platform Flutter application designed to securely stor
 
 ---
 
-## Screenshots
-
-_(Include relevant screenshots here)_
-
----
 
 ## Getting Started
 
@@ -46,7 +41,7 @@ flutter run
 Running on Android
 Connect your device or emulator, then:
 
-bash
+```
 Copy code
 flutter run -d android
 Demo Credentials
@@ -54,8 +49,8 @@ Email: test@test.com
 
 Password: 123456
 
-Project Structure
-bash
+## Project Structure
+
 Copy code
 lib/
 ├── main.dart          # App entry point with routing and theming
@@ -64,6 +59,8 @@ lib/
 ├── services/          # Business logic and service classes (Auth, DB handling)
 pubspec.yaml           # Project dependencies and configuration
 Contributing
+
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 For significant changes, discuss them beforehand to ensure alignment with the project vision.
+
 
