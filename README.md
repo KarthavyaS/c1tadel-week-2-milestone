@@ -45,8 +45,7 @@ Connect your device or emulator, then:
 - flutter run -d android
 - Demo Credentials
 - Email: test@test.com
-
-Password: 123456
+- Password: 123456
 
 ## Project Structure
 
@@ -62,6 +61,7 @@ Contributing
 
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 For significant changes, discuss them beforehand to ensure alignment with the project vision.
+
 
 
 
