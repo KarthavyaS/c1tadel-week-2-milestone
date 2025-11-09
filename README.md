@@ -1,4 +1,4 @@
-# Document Vault - Flutter App
+# Document Vault - C1TADEL (Flutter app)
 
 ## Week 2 Milestone
 
@@ -42,16 +42,15 @@ Running on Android
 Connect your device or emulator, then:
 
 ```
-Copy code
-flutter run -d android
-Demo Credentials
-Email: test@test.com
+- flutter run -d android
+- Demo Credentials
+- Email: test@test.com
 
 Password: 123456
 
 ## Project Structure
 
-Copy code
+```plaintext
 lib/
 ├── main.dart          # App entry point with routing and theming
 ├── screens/           # UI pages (Login, Dashboard, etc.)
@@ -59,8 +58,10 @@ lib/
 ├── services/          # Business logic and service classes (Auth, DB handling)
 pubspec.yaml           # Project dependencies and configuration
 Contributing
+```
 
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 For significant changes, discuss them beforehand to ensure alignment with the project vision.
+
 
 
