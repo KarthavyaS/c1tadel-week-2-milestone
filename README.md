@@ -34,7 +34,7 @@ Document Vault is a cross-platform Flutter application designed to securely stor
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/flutter_document_vault.git
+git clone https://github.com/KarthavyaS/c1tadel-week-2-milestone.git
 cd flutter_document_vault
 flutter pub get
 flutter run
@@ -61,6 +61,7 @@ Contributing
 
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
 For significant changes, discuss them beforehand to ensure alignment with the project vision.
+
 
 
 
